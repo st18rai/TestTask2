@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="title_activity_users">Users</string>
+    <string name="logo">Logo</string>
+    <string name="toast">Could not load list of users</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="phone">phone</string>
+    <string name="description">description</string>
+    <string name="info">info</string>
+</resources>
